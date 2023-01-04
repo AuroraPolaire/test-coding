@@ -14,13 +14,12 @@
 
 // console.log(SeriesSum(4));
 
+// function friend(friends){
+//   let friendsArray = [];
+//   for ( const friend of friends) {
+//     if (typeOf friend === 'string' && friend.length <= 4) {friendsArray.push(friend)}
+//       }
+//   return friendsArray
+// }
 
-function friend(friends){
-  let friendsArray = [];
-  for ( const friend of friends) {
-    if (typeOf friend === 'string' && friend.length <= 4) {friendsArray.push(friend)}
-      }
-  return friendsArray
-}
-
-console.log(friend(["Ryan", "Jimmy", "123", "4", "Cool Man"]));
+// console.log(friend(["Ryan", "Jimmy", "123", "4", "Cool Man"]));
